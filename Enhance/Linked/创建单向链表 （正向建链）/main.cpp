@@ -13,4 +13,4 @@ int main ()
 	head =Creatlink (a);
 	//输出单链表
 	Printlink(head);
-}
+} 

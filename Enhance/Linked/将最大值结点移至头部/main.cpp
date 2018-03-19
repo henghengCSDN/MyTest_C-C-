@@ -23,4 +23,4 @@ int main ()
 	head=MoveMaxNodeToHead(head);
 	//输出单向链表
 	printflink (head); 	
-}
+} 

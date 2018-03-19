@@ -23,4 +23,4 @@ int main ()
 	head=Prelink (head); 
 	//输出单向链表
 	printflink (head); 	
-}
+} 

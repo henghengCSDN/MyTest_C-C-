@@ -25,4 +25,4 @@ ElemSN *MoveMaxNodeToTail(ElemSN *h)
 	    q->next=pmax;
 	}
 	return h;
-} 
+}  

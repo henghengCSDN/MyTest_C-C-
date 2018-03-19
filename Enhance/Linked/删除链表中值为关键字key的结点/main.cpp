@@ -26,5 +26,5 @@ int main ()
 	head=DelsingleNode(head,key);
 	//输出单向链表
 	printflink (head); 	
-}
+} 
 
